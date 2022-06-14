@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/client_servers/current/tmp/BuildData" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/client_servers/current/tmp/Bukkit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/client_servers/current/tmp/CraftBukkit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/client_servers/current/tmp/Spigot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/client_servers/previous/1.16.2__6-14-2022__17-6-1/tmp/BuildData" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/client_servers/previous/1.16.2__6-14-2022__17-6-1/tmp/Bukkit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/client_servers/previous/1.16.2__6-14-2022__17-6-1/tmp/CraftBukkit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/client_servers/previous/1.16.2__6-14-2022__17-6-1/tmp/Spigot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/client_servers/previous/1.16.2__6-14-2022__17-6-1/tmp/Spigot/Spigot-API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/client_servers/previous/1.16.2__6-14-2022__17-6-1/tmp/Spigot/Spigot-Server" vcs="Git" />
+  </component>
+</project>
